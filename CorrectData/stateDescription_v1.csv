@@ -1,0 +1,65 @@
+State,state_abbr,state_name
+0,AK,AK,Alaska
+1,AL,AL,Alabama
+2,AR,AR,Arkansas
+3,AZ,AZ,Arizona
+4,CA,CA,California
+5,CO,CO,Colorado
+6,CT,CT,Connecticut
+7,DC,DC,District of Columbia
+8,DE,DE,Delaware
+9,FL,FL,Florida
+10,GA,GA,Georgia
+11,HI,HI,Hawaii
+12,IA,IA,Iowa
+13,ID,ID,Idaho
+14,IL,IL,Illinois
+15,IN,IN,Indiana
+16,KS,KS,Kansas
+17,KY,KY,Kentucky
+18,LA,LA,Louisiana
+19,MA,MA,Massachusetts
+20,MA,MA,Manitoba
+21,MD,MD,Maryland
+22,ME,ME,Maine
+23,MI,MI,Michigan
+24,MN,MN,Minnesota
+25,MO,MO,Missouri
+26,MS,MS,Mississippi
+27,MT,MT,Montana
+28,NC,NC,North Carolina
+29,ND,ND,North Dakota
+30,NE,NE,Nebraska
+31,NH,NH,New Hampshire
+32,NJ,NJ,New Jersey
+33,NM,NM,New Mexico
+34,NV,NV,Nevada
+35,NY,NY,New York
+36,OH,OH,Ohio
+37,OK,OK,Oklahoma
+38,OR,OR,Oregon
+39,PA,PA,Pennsylvania
+40,RI,RI,Rhode Island
+41,SC,SC,South Carolina
+42,SD,SD,South Dakota
+43,TN,TN,Tennessee
+44,TX,TX,Texas
+45,UT,UT,Utah
+46,VA,VA,Virginia
+47,VT,VT,Vermont
+48,WA,WA,Washington
+49,WI,WI,Wisconsin
+50,WV,WV,West Virginia
+51,WY,WY,Wyoming
+52,AB,AB,Alberta
+53,BC,BC,Britich Columbia
+54,NB,NB,New Brunswick
+55,NF,NF,Newfoundland and Labrador
+56,NS,NS,Nova Scotia
+57,NT,NW,North West Territories
+58,ON,ON,Ontario
+59,PE,PE,Prince Edward Island
+60,QC,QC,Quebec
+61,SK,SK,Saskatchewan
+62,YK,YK,Yukon
+63,NN,NN,Nunavut
